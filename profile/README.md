@@ -12,6 +12,8 @@ So, whether you're here to enhance your coding skills, collaborate on innovative
 
 Get ready to embark on a thrilling tech adventure with GDSC UVic! Join us, and let's code the future together.
 
+Interested in joining us? Please follow this link to all of our social media: https://linktr.ee/uvic.gdsc
+
 <!--
 
 **Here are some ideas to get you started:**
